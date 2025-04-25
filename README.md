@@ -1,4 +1,4 @@
-# 💻 Yckler Tomicki
+# 👨🏼‍💻Yckler Tomicki
 
 **`Estudante de Ciências da Computação`**
 
